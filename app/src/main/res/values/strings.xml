@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intents4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Descripcion">Esta Aplicacion ofrece la posibilidad de compartir Textos en algun medio. En el cuadro aparece el texto compartido</string>
+    <string name="textoC">Texto Compartido</string>
+</resources>
